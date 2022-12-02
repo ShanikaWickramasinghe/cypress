@@ -1,4 +1,5 @@
 /* eslint-disable no-console */
+// This is test
 require('@packages/coffee/register')
 
 const command = process.argv[2]

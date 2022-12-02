@@ -1,4 +1,5 @@
 /* eslint-disable no-console */
+//This is a test
 
 const chalk = require('chalk')
 const check = require('check-dependencies')
